@@ -1,0 +1,13 @@
+#ifndef CONSTANTES
+#define CONSTANTES
+
+#define HAUTEUR_TABLEAU 8
+#define LARGEUR_TABLEAU 8
+#define VALEUR_PION 1
+#define VALEUR_CAVALIER 3
+#define VALEUR_FOU 3
+#define VALEUR_TOUR 5
+#define VALEUR_REINE 9
+#define VALEUR_ROI 15
+
+#endif // CONSTANTES
